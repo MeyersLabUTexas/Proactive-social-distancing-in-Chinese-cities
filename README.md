@@ -2,6 +2,7 @@
 Proactive social distancing measures can mitigate COVID-19 outbreaks in Chinese cities
 
 Symbol	,	Definition
+
 t0	,	Day of symptom onset for the first reported case
 
 te	,	Day on which the earliest social distancing measure(s) was enacted
