@@ -24,4 +24,5 @@ Tintra_trans	,	Days between the first reported case (t0) and suspension of intra
 Tinter_trans	,	Days between the first reported case (t0) and suspension of inbound and outbound travel (i.e. inter-city rail, highway, and air travel)
 
 Treport	,	Days between the first reported case (t0) and online posting of confirmed case reports
+
 Tassist	,	Days between the first reported case (t0) and the recruitment of governmental staff and volunteers to assist with quarantine and social distancing
